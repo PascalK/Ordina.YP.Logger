@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordina.YP.Logger.UI.CLI", "src\Ordina.YP.Logger.UI.CLI\Ordina.YP.Logger.UI.CLI.csproj", "{D1FDD9F1-ED1E-4C74-B510-1AE5F1E72EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordina.YP.Logger.Business", "src\Ordina.YP.Logger.Business\Ordina.YP.Logger.Business.csproj", "{5995CBCC-F522-4518-8AE2-8BCBCE6FD310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FDD9F1-ED1E-4C74-B510-1AE5F1E72EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FDD9F1-ED1E-4C74-B510-1AE5F1E72EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FDD9F1-ED1E-4C74-B510-1AE5F1E72EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FDD9F1-ED1E-4C74-B510-1AE5F1E72EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5995CBCC-F522-4518-8AE2-8BCBCE6FD310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5995CBCC-F522-4518-8AE2-8BCBCE6FD310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5995CBCC-F522-4518-8AE2-8BCBCE6FD310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5995CBCC-F522-4518-8AE2-8BCBCE6FD310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
